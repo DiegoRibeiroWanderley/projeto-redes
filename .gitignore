@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+
+# arquivo de teste de 10 MB: gerado localmente com src/arquivo_teste.py
+dados/*.bin
+
+# capturas de pacotes (RD04) ficam grandes
+*.pcap
